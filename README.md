@@ -9,7 +9,7 @@ A cidade do Recife é uma das mais famosas do Nordeste, ela possui diversos pont
 
  Abuse de sua criatividade para a criação da página! 
 
- ![Página criada](imagens/tela_d3.jpg)
+ [Página criada](imagens/tela_d3.jpg)
 
 # desenvolvimento4_95848
 Atividade do curso HTML/CSS
